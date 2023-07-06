@@ -1,4 +1,4 @@
-# **A simple to use Expense Calculator**
+# **A simple to use Expense Tracker**
 
 [![ReactJS](https://img.shields.io/badge/Built%20with-ReactJS-blue)](https://reactjs.org/)
 
