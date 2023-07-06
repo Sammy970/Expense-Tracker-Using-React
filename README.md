@@ -2,7 +2,7 @@
 
 [![ReactJS](https://img.shields.io/badge/Built%20with-ReactJS-blue)](https://reactjs.org/)
 
-[![Try it online](https://img.shields.io/badge/Try%20it%20online-%F0%9F%8C%90-blueviolet)](https://expense-cal-react.vercel.app)
+[![Try it online](https://img.shields.io/badge/Try%20it%20online-%F0%9F%8C%90-blueviolet)](https://expense-calculator-react.vercel.app)
 
 -------------
 
