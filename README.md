@@ -10,8 +10,8 @@
 
 To install and run this application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Sammy970/expense-calculator-react`
-2. Change to the project directory: `cd expense-calculator-react`
+1. Clone the repository: `git clone https://github.com/Sammy970/expense-tracker-react`
+2. Change to the project directory: `cd expense-tracker-react`
 3. Install dependencies: `npm install`
 4. Start the app: `npm start`
 
